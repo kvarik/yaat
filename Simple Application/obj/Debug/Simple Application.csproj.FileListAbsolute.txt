@@ -1,0 +1,9 @@
+c:\users\boris\documents\visual studio 2012\Projects\YaAT\Simple Application\bin\Debug\Simple Application.exe.config
+c:\users\boris\documents\visual studio 2012\Projects\YaAT\Simple Application\bin\Debug\Simple Application.exe
+c:\users\boris\documents\visual studio 2012\Projects\YaAT\Simple Application\bin\Debug\Simple Application.pdb
+c:\users\boris\documents\visual studio 2012\Projects\YaAT\Simple Application\obj\Debug\Simple Application.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2012\Projects\YaAT\Simple Application\obj\Debug\Simple_Application.formMain.resources
+c:\users\boris\documents\visual studio 2012\Projects\YaAT\Simple Application\obj\Debug\Simple_Application.Properties.Resources.resources
+c:\users\boris\documents\visual studio 2012\Projects\YaAT\Simple Application\obj\Debug\Simple Application.csproj.GenerateResource.Cache
+c:\users\boris\documents\visual studio 2012\Projects\YaAT\Simple Application\obj\Debug\Simple Application.exe
+c:\users\boris\documents\visual studio 2012\Projects\YaAT\Simple Application\obj\Debug\Simple Application.pdb

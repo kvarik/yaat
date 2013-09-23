@@ -1,0 +1,7 @@
+c:\Users\Boris\documents\visual studio 2012\Projects\YaAT\Simple Test App\bin\Debug\Simple Test App.exe
+c:\Users\Boris\documents\visual studio 2012\Projects\YaAT\Simple Test App\bin\Debug\Simple Test App.pdb
+c:\Users\Boris\documents\visual studio 2012\Projects\YaAT\Simple Test App\bin\Debug\libYaAT.dll
+c:\Users\Boris\documents\visual studio 2012\Projects\YaAT\Simple Test App\bin\Debug\libYaAT.pdb
+c:\Users\Boris\documents\visual studio 2012\Projects\YaAT\Simple Test App\obj\Debug\Simple Test App.csprojResolveAssemblyReference.cache
+c:\Users\Boris\documents\visual studio 2012\Projects\YaAT\Simple Test App\obj\Debug\Simple Test App.exe
+c:\Users\Boris\documents\visual studio 2012\Projects\YaAT\Simple Test App\obj\Debug\Simple Test App.pdb

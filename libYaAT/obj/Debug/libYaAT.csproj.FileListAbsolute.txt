@@ -1,0 +1,5 @@
+c:\users\boris\documents\visual studio 2012\Projects\YaAT\libYaAT\obj\Debug\libYaAT.csprojResolveAssemblyReference.cache
+c:\users\boris\documents\visual studio 2012\Projects\YaAT\libYaAT\bin\Debug\libYaAT.dll
+c:\users\boris\documents\visual studio 2012\Projects\YaAT\libYaAT\bin\Debug\libYaAT.pdb
+c:\users\boris\documents\visual studio 2012\Projects\YaAT\libYaAT\obj\Debug\libYaAT.dll
+c:\users\boris\documents\visual studio 2012\Projects\YaAT\libYaAT\obj\Debug\libYaAT.pdb
